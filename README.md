@@ -60,3 +60,30 @@ We determined which day of the week (Monday, Tuesday, etc.) the sale occurred.
 We identified the month when the sale took place.
 
 These extra details will help us see when sales are highest and which days or times are busiest for the store.
+
+
+# Analytical question
+
+### Product
+What is the most selling product line?
+What is the total revenue by month?
+What month had the largest COGS?
+What product line had the largest revenue?
+What product line had the largest VAT?
+Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+which is top 5 most profitable product lines?
+Which branch sold more products than average product sold?
+What is the most common product line by gender?
+What is the average rating of each product line?
+What is gross margin per product line?
+Which is the city has the largest revenue?
+
+### Customer
+Which customer type buys the most?
+what is average order value by customer type?
+What is the gender distribution per branch?
+What is the gender of most of the customers?
+
+
+
+
