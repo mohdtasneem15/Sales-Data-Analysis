@@ -38,15 +38,15 @@ This project aims to dig into Walmart's sales data to understand what drives sal
 
 
 # Technique
-1.Cleaning Up the Data
+# 1.Cleaning Up the Data
 
 -The first step was to examine the data carefully to find any missing or incorrect information. We made sure all the data was complete and accurate before moving on.
 
-2.Organizing the Data
+# 2.Organizing the Data
 
 -We created a database and stored the information in a structured way. This made it easier to work with and analyze the data.
 
-3.Adding More Information
+# 3.Adding More Information
 
 -To get a better understanding of when and how sales happened, we added new details to the data:
 
