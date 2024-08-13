@@ -46,7 +46,7 @@ The first step was to examine the data carefully to find any missing or incorrec
 
 We created a database and stored the information in a structured way. This made it easier to work with and analyze the data.
 
-## 3.Adding More Information
+## 3.Adding More Information:Feature Engineering
 
 ### To get a better understanding of when and how sales happened, we added new details to the data:
 
@@ -56,7 +56,7 @@ We figured out if sales happened in the morning, afternoon, or evening.
 #### b.Day of the week: 
 We determined which day of the week (Monday, Tuesday, etc.) the sale occurred.
 
-#### c.Month: 
+#### c.Month name: 
 We identified the month when the sale took place.
 
 These extra details will help us see when sales are highest and which days or times are busiest for the store.
