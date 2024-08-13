@@ -77,7 +77,7 @@ These extra details will help us see when sales are highest and which days or ti
 
 6.Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
 
-7.which is top 5 most profitable product lines?
+7.Which is top 5 most profitable product lines?
 
 8.Which branch sold more products than average product sold?
 
@@ -92,11 +92,13 @@ These extra details will help us see when sales are highest and which days or ti
 ### Customer
 1.Which customer type buys the most?
 
-2.what is average order value by customer type?
+2.What is average order value by customer type?
 
 3.What is the gender distribution per branch?
 
 4.What is the gender of most of the customers?
+
+### Sale
 
 
 
