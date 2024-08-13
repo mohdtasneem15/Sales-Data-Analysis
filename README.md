@@ -6,8 +6,8 @@ We're using information from a bunch of Walmart stores in different places. This
 # Project Objective/Aim
 This project aims to dig into Walmart's sales data to understand what drives sales performance across different branches. By examining trends, product lines, and customer behaviors, we’ll uncover insights to help improve sales strategies and boost profitability.
 
-#Analysis List
-# Understand Sales Performance Across Different Branches:
+# Analysis List
+1. # Understand Sales Performance Across Different Branches:
 Identify top-performing branches based on total revenue, quantity sold, and profitability.
 Analyze sales trends by branch to determine the most effective sales strategies.
 
