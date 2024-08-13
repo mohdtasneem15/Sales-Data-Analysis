@@ -65,24 +65,24 @@ These extra details will help us see when sales are highest and which days or ti
 # Analytical question
 
 ### Product
-What is the most selling product line?
-What is the total revenue by month?
-What month had the largest COGS?
-What product line had the largest revenue?
-What product line had the largest VAT?
-Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
-which is top 5 most profitable product lines?
-Which branch sold more products than average product sold?
-What is the most common product line by gender?
-What is the average rating of each product line?
-What is gross margin per product line?
-Which is the city has the largest revenue?
+1.What is the most selling product line?
+2.What is the total revenue by month?
+3.What month had the largest COGS?
+4.What product line had the largest revenue?
+5.What product line had the largest VAT?
+6.Fetch each product line and add a column to those product line showing "Good", "Bad". Good if its greater than average sales
+7.which is top 5 most profitable product lines?
+8.Which branch sold more products than average product sold?
+9.What is the most common product line by gender?
+10.What is the average rating of each product line?
+11.What is gross margin per product line?
+12.Which is the city has the largest revenue?
 
 ### Customer
-Which customer type buys the most?
-what is average order value by customer type?
-What is the gender distribution per branch?
-What is the gender of most of the customers?
+1.Which customer type buys the most?
+2.what is average order value by customer type?
+3.What is the gender distribution per branch?
+4.What is the gender of most of the customers?
 
 
 
