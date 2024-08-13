@@ -8,14 +8,12 @@ This project aims to dig into Walmart's sales data to understand what drives sal
 
 # Analysis List
 1. Understand Sales Performance Across Different Branches:
-   Identify top-performing branches based on total revenue, quantity sold, and profitability.
-   Analyze sales trends by branch to determine the most effective sales strategies.
+   -Identify top-performing branches based on total revenue, quantity sold, and profitability.
+   -Analyze sales trends by branch to determine the most effective sales strategies.
 
 2. Evaluate Product Line Performance:
-   
----Determine which product lines generate the highest revenue and profitability.
-   
----Assess product lines based on average gross margin and sales quantity to identify high and low performers.
+   -Determine which product lines generate the highest revenue and profitability.
+   -Assess product lines based on average gross margin and sales quantity to identify high and low performers.
 
 3. Analyze Sales Trends:
    
