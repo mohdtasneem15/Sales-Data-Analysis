@@ -50,7 +50,7 @@ We created a database and stored the information in a structured way. This made 
 
 To get a better understanding of when and how sales happened, we added new details to the data:
 
-## a.Time of day: We figured out if sales happened in the morning, afternoon, or evening.
+### a.Time of day: We figured out if sales happened in the morning, afternoon, or evening.
 
 b.Day of the week: We determined which day of the week (Monday, Tuesday, etc.) the sale occurred.
 
