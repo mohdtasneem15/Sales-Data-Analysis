@@ -122,26 +122,22 @@ This section provides a breakdown of how key sales metrics such as Cost of Goods
    COGS = Unit Price * Quantity
 
 3. **VAT (Value Added Tax)**:
-   \[
-   \text{VAT} = 5\% \times \text{COGS}
-   \]
-
+   
+   VAT = 5% * COGS
+   
    VAT is added to the COGS, and this is the total amount billed to the customer.
 
-4. **Total Sales (Gross Sales)**:
-   \[
-   \text{Total Sales} = \text{VAT} + \text{COGS}
-   \]
+5. **Total Sales (Gross Sales)**:
+   
+   Total Sales = VAT + COGS
 
-5. **Gross Profit (Gross Income)**:
-   \[
-   \text{Gross Profit} = \text{Total Sales} - \text{COGS}
-   \]
+7. **Gross Income**:
 
-6. **Gross Margin Percentage**:
-   \[
-   \text{Gross Margin Percentage} = \left(\frac{\text{Gross Profit}}{\text{Total Sales}}\right) \times 100
-   \]
+   Gross Income = Total Sales - COGS
+
+9. **Gross Margin Percentage**:
+
+   Gross Margin Percentage = (Gross Profit/Total Sales) * 100
 
 ### Example Calculation
 
@@ -151,29 +147,24 @@ Let's walk through an example using the first row in our dataset.
 - **Quantity**: 7
 
 1. **COGS**:
-   \[
-   \text{COGS} = 45.79 \times 7 = 320.53
-   \]
 
-2. **VAT**:
-   \[
-   \text{VAT} = 5\% \times 320.53 = 16.0265
-   \]
+   COGS = 45.79 * 7 = 320.53
 
-3. **Total Sales**:
-   \[
-   \text{Total Sales} = 320.53 + 16.0265 = 336.5565
-   \]
+3. **VAT**:
 
-4. **Gross Profit**:
-   \[
-   \text{Gross Profit} = 336.5565 - 320.53 = 16.0265
-   \]
+   VAT = 5% * 320.53 = 16.0265
 
-5. **Gross Margin Percentage**:
-   \[
-   \text{Gross Margin Percentage} = \left(\frac{16.0265}{336.5565}\right) \times 100 \approx 4.76\%
-   \]
+5. **Total Sales**:
+
+   Total Sales = 320.53 + 16.0265 = 336.5565
+
+7. **Gross Profit**:
+
+   Gross Profit} = 336.5565 - 320.53 = 16.0265
+
+9. **Gross Margin Percentage**:
+
+   Gross Margin Percentage = (16.0265/336.5565) * 100 = 4.76%
 
 
 
