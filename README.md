@@ -118,28 +118,27 @@ This section provides a breakdown of how key sales metrics such as Cost of Goods
 ### Formulas
 
 1. **COGS (Cost of Goods Sold)**:
-   \[
-   \text{COGS} = \text{Unit Price} \times \text{Quantity}
-   \]
+   
+   COGS = Unit Price * Quantity
 
-2. **VAT (Value Added Tax)**:
+3. **VAT (Value Added Tax)**:
    \[
    \text{VAT} = 5\% \times \text{COGS}
    \]
 
    VAT is added to the COGS, and this is the total amount billed to the customer.
 
-3. **Total Sales (Gross Sales)**:
+4. **Total Sales (Gross Sales)**:
    \[
    \text{Total Sales} = \text{VAT} + \text{COGS}
    \]
 
-4. **Gross Profit (Gross Income)**:
+5. **Gross Profit (Gross Income)**:
    \[
    \text{Gross Profit} = \text{Total Sales} - \text{COGS}
    \]
 
-5. **Gross Margin Percentage**:
+6. **Gross Margin Percentage**:
    \[
    \text{Gross Margin Percentage} = \left(\frac{\text{Gross Profit}}{\text{Total Sales}}\right) \times 100
    \]
