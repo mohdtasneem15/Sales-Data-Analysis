@@ -104,6 +104,14 @@ These extra details will help us see when sales are highest and which days or ti
 
 7.Which city has the largest tax percent/ VAT (Value Added Tax)?
 
+6.Which time of the day do customers give most ratings?
+
+7.Which time of the day do customers give most ratings per branch?
+
+8.Which day fo the week has the best avg ratings?
+
+9.Which day of the week has the best average ratings per branch?
+
 
 ### Sale
 
@@ -115,7 +123,7 @@ These extra details will help us see when sales are highest and which days or ti
 
 4.What is sales and gross profit by branch
 
-5.what is Month-over-month sales growth
+5.What is Month-over-month sales growth
 
 
 # Revenue and Profit Calculation Overview
