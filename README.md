@@ -100,6 +100,15 @@ These extra details will help us see when sales are highest and which days or ti
 
 ### Sale
 
+1.What is Average Value Per Item Sold
+
+2.Identify peak sales_day,month,hour
+
+3.Analyze sales trends by day of week, hour of day, and month
+
+4.What is sales and gross profit by branch
+
+5.what is Month-over-month sales growth
 
 
 
