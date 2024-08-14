@@ -104,13 +104,13 @@ These extra details will help us see when sales are highest and which days or ti
 
 7.Which city has the largest tax percent/ VAT (Value Added Tax)?
 
-6.Which time of the day do customers give most ratings?
+8.Which time of the day do customers give most ratings?
 
-7.Which time of the day do customers give most ratings per branch?
+9.Which time of the day do customers give most ratings per branch?
 
-8.Which day fo the week has the best avg ratings?
+10.Which day fo the week has the best avg ratings?
 
-9.Which day of the week has the best average ratings per branch?
+11.Which day of the week has the best average ratings per branch?
 
 
 ### Sale
