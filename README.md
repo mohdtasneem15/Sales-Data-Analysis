@@ -111,4 +111,70 @@ These extra details will help us see when sales are highest and which days or ti
 5.what is Month-over-month sales growth
 
 
+# Revenue and Profit Calculation Overview
+
+This section provides a breakdown of how key sales metrics such as Cost of Goods Sold (COGS), VAT, Total Sales, Gross Profit, and Gross Margin Percentage are calculated based on our dataset.
+
+### Formulas
+
+1. **COGS (Cost of Goods Sold)**:
+   \[
+   \text{COGS} = \text{Unit Price} \times \text{Quantity}
+   \]
+
+2. **VAT (Value Added Tax)**:
+   \[
+   \text{VAT} = 5\% \times \text{COGS}
+   \]
+
+   VAT is added to the COGS, and this is the total amount billed to the customer.
+
+3. **Total Sales (Gross Sales)**:
+   \[
+   \text{Total Sales} = \text{VAT} + \text{COGS}
+   \]
+
+4. **Gross Profit (Gross Income)**:
+   \[
+   \text{Gross Profit} = \text{Total Sales} - \text{COGS}
+   \]
+
+5. **Gross Margin Percentage**:
+   \[
+   \text{Gross Margin Percentage} = \left(\frac{\text{Gross Profit}}{\text{Total Sales}}\right) \times 100
+   \]
+
+### Example Calculation
+
+Let's walk through an example using the first row in our dataset.
+
+- **Unit Price**: $45.79
+- **Quantity**: 7
+
+1. **COGS**:
+   \[
+   \text{COGS} = 45.79 \times 7 = 320.53
+   \]
+
+2. **VAT**:
+   \[
+   \text{VAT} = 5\% \times 320.53 = 16.0265
+   \]
+
+3. **Total Sales**:
+   \[
+   \text{Total Sales} = 320.53 + 16.0265 = 336.5565
+   \]
+
+4. **Gross Profit**:
+   \[
+   \text{Gross Profit} = 336.5565 - 320.53 = 16.0265
+   \]
+
+5. **Gross Margin Percentage**:
+   \[
+   \text{Gross Margin Percentage} = \left(\frac{16.0265}{336.5565}\right) \times 100 \approx 4.76\%
+   \]
+
+
 
