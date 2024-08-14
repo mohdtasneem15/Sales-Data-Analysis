@@ -98,6 +98,13 @@ These extra details will help us see when sales are highest and which days or ti
 
 4.What is the gender of most of the customers?
 
+5.Which customer type pays the most in VAT?
+
+6.Which of the customer types brings the most revenue?
+
+7.Which city has the largest tax percent/ VAT (Value Added Tax)?
+
+
 ### Sale
 
 1.What is Average Value Per Item Sold
